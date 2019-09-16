@@ -3,3 +3,8 @@ git status
 git init
 git add
 git commit -m "message"
+
+git diff
+
+aussi git commit -a(extension add)
+
